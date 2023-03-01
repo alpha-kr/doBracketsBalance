@@ -1,2 +1,2 @@
 # doBracketsBalance
-bracket function return true or false depending on if  brackets is balanced
+js helper module that includes doBrackets Balance method for brackets string validation
